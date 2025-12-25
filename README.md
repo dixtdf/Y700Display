@@ -32,7 +32,7 @@ Y700四代 其他Y700请自测出现问题概不负责<br/>
 如果黑屏后你无法操作画面，请使用adb打开本app，重新打开app会自动亮屏<br/>
 adb打开app命令<br/>
 ```shell
-adb shell am start -n io.dixtdf.y700power/.MainActivity -S
+adb shell am start -n io.dixtdf.y700display/.MainActivity -S
 ```
 # 免责声明
 请在合法范围为使用本软件，请不要用于非法用途，使用本软件造成的任何后果，本软件概不负责。<br/>
