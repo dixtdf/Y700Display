@@ -4,6 +4,10 @@
 全局允许直接打开旁路供电<br/>
 软件免费分享！请不要售卖！发现售卖的请点点举报！<br/>
 
+# 测试机型
+Y700 四代 A15
+联想小新ProGT A16
+
 # 分辨率刷新率使用方式
 1.安装magisk模块y700-display-auto-change.zip<br/>
 2.安装app-release-unsigned.apk<br/>
